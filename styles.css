@@ -1,0 +1,37 @@
+
+
+.bg-profile{
+    background-image: url(img/lester.jpg);
+    background-position: 0% 18%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-aboutme{
+    background-image: url(img/bg1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.bg-skills{
+    background-image: url(img/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.sticky{
+    position: sticky;
+    top: 0;
+}
+
+.card-content{
+    margin-top: 300px;
+    background:rgba(55, 57, 75, 0.8);
+    border-radius: 15px;
+}
+.footer{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+
